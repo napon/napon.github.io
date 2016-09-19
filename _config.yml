@@ -1,0 +1,36 @@
+# Site settings
+title: Napon Taratan
+email: napon@napontaratan.com
+url: http://napontaratan.com/
+description: "Student and Software Developer"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+#contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 85AD1F
+  accent: F89406
+  primary-rgb: "133,173,31"
+  accent-rgb: "248,148,6"
+  secondary: 3f3f3f
+  secondary-dark: 2e2e2e
+
+# Footer settings
+footer:
+  copyright: Napon Taratan
+  social: ABC
+  credits: DEF
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/napontaratan
+  - title: github
+    url: https://github.com/napon
+  - title: linkedin
+    url: https://ca.linkedin.com/in/napontaratan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
