@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://napontaratan.com/categories/</loc>
+    <loc>https://napontaratan.com/posts/day1/</loc>
+    <lastmod>2019-08-30T23:00:59-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://napontaratan.com/</loc>
+    <lastmod>2019-08-30T23:00:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napontaratan.com/posts/</loc>
+    <lastmod>2019-08-30T23:00:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napontaratan.com/categories/</loc>
   </url>
   
   <url>
